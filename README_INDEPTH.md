@@ -1,7 +1,7 @@
 # MLApp Demo
 
 ## The Idea
-This app builds off of the Demo App design pattern, [which you can find here](https://mrmcgrew.github.io/demoapp). This app has no real purpose,
+This app builds off of the Demo App design pattern, [which you can find here](https://github.com/mrmcgrewx/DemoApp). This app has no real purpose,
 just playing around with the Swift CoreML library to generate ideas on how it could be applied within applications. Since machine-learning will
 be around to stay, let us make sure we do not get left behind.
 

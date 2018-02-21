@@ -1,5 +1,5 @@
 # MLApp Demo
-This app build off of the [Core ML Demo](https://developer.apple.com/machine-learning/) that Apple provides on their developer website.
+This app build off of the [Core ML Demo](https://github.com/mrmcgrewx/DemoApp) that Apple provides on their developer website.
 I just wanted to play around with the Swift Core ML library and get an understanding of how one
 may incorporate machine-learning into their application.
 
