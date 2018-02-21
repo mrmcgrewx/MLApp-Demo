@@ -7,4 +7,4 @@ The application itself is pretty straightforward. After logging into the app ([I
 the user can select to start scanning objects or review previous images collected. If the object being scanned by the camera returns
 a confidence higher than 50% an image is captured and the option to send the data to the server is presented. You can also review the previous images taken in the review section.
 
-For a breakdown of what's going on in the application [click here](https://filler.com)
+For a breakdown of what's going on in the application [click here](./README_INDEPTH.md)
